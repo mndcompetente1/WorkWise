@@ -356,7 +356,6 @@ The ERD is fully normalised and covers:
 
 **Capstone Adviser:** Milagros V. Ortega, MIT
 **Course Adviser:** Armando D. Delmundo, PhD
-**Panel:** Renjun A. Orain, DIT (Head Panelist) · Jennifer V. Diaz, MBA · Merlin A. Marfa, MIT
 
 **Institution:** FEU Alabang, Bachelor of Science in Information Technology with Specialization in Business Analytics
 

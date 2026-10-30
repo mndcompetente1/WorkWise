@@ -362,26 +362,6 @@ The ERD is fully normalised and covers:
 
 ---
 
-## 📖 Citation
-
-If you reference this work, please cite:
-
-```bibtex
-@thesis{workwise2026,
-  title   = {Work-Wise: An Intelligent Multi-Level Decision Support System Using
-             Machine Learning Forecasting, Performance Diagnostics, and Workload
-             Optimization for ITSM Operations},
-  author  = {Cabinian, Jorge Jesse Jr. M. and Competente, Matthew Nicolai D. and
-             Fernandez, Jacob Riley D. and Maranan, Mathew G.},
-  school  = {FEU Alabang},
-  type    = {Capstone Project},
-  year    = {2026},
-  month   = {July}
-}
-```
-
----
-
 <div align="center">
 
 © 2026 Cabinian, Competente, Fernandez, and Maranan. All rights reserved.
